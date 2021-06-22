@@ -1,7 +1,7 @@
 # padoru-bot
-Padoru bot, now with DI and TS <br/>
-This bot will make all the incomming message in your guild become PADORU <br/>
-Or your favourite emoji ofc, like jerry <br/>
+Padoru bot, now with Dependency Injection (DI) and TypeScript(TS) <br/>
+This bot will make all incoming messages in your guild become PADORU <br/>
+Or your favourite emoji ofc, like Jerry <br/>
 <img src="https://i.redd.it/y8cmqu9ada341.jpg" width="500" height="auto"/>
 # NPM install
 ```bash
@@ -26,7 +26,7 @@ $ npm run start
 # PORT, just for fun, a place to put 69420
 # cause why's not ?
 ```
-This repo is remake, but everyday is a Christmas for PADORU anyway
+This repo is a remake, but everyday is a Christmas for PADORU anyway!
 
 <img src="https://thumbs.gfycat.com/RaggedIckyEquestrian-size_restricted.gif" />
 
