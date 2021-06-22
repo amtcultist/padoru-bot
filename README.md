@@ -2,7 +2,7 @@
 Padoru bot, now with DI and TS
 This bot will make all the incomming message in your guild become PADORU <br/>
 Or your favourite emoji ofc, like jerry <br/>
-<img src="https://i.redd.it/y8cmqu9ada341.jpg" />
+<img src="https://i.redd.it/y8cmqu9ada341.jpg" width="100" height="auto"/>
 # NPM install
 ```bash
 npm install
